@@ -1,5 +1,7 @@
 # GAKAAL
-### GAKAAL was a social media created for sport enthusiasts, athletes, coaches or about anyone interreted in sports. They could post publications or organize events as well as invite friends and other such features existing on other social media websites.
+### GAKAAL was a social media created for sport enthusiasts, athletes, coaches or about anyone interreted in sports. 
+
+##### Users could post publications or organize events as well as invite friends and other such features existing on other social media websites.
 
 
 
