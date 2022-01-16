@@ -6,4 +6,4 @@
 
 
 
-This project was done as part of a group project to test our develeppment skills without the use of frameworks
+(This project was done as part of a group project to test our develeppment skills without the use of PHP or Js frameworks).
